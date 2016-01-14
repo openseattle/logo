@@ -1,4 +1,4 @@
-# logo
+# openseattle-logo
 
 Files for the Open Seattle logo.
 
